@@ -21,7 +21,7 @@ A simple web project built using HTML, CSS, and JavaScript.
 4. View and manage patients easily
 
 ## Live Demo
-(ضع اللينك هنا بعد تفعيل GitHub Pages)
+https://github.com/mariemnofal46-create/hospital-system2/tree/main
 
 ## Author
 Made by Mariem 💙
